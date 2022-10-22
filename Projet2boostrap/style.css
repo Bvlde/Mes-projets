@@ -1,0 +1,58 @@
+#change{
+    background-color:#d0021b;
+}
+body,html{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#police{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+}
+#pll{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 45px;
+    font-weight: 100;
+}
+
+#couleur{
+    background-color: #50e3c2;
+    border: 2px solid #20c7a1;
+    z-index: 1;
+    padding: 10px;
+    width: 100px;
+   
+}
+#loop{
+    background-color: #50e3c2;
+    border: 1px solid #50e3c2;
+   
+}
+#couleur:hover,#loop:hover{
+    border: 3px solid black;
+}
+
+
+#pied{
+    background-color: #d0021b;
+    list-style-type: none;
+    width: 100%;
+    
+}
+.card-body{
+    background-color: #20c7a1;
+}
+.card:hover,.card-body:hover{
+    box-shadow: 2px 2px 6px black;
+    background-color: white;
+}
+#police:hover{
+    color: #20c7a1;
+}
+
+
+ 
